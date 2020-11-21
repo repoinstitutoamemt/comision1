@@ -1,0 +1,20 @@
+button {
+    width: 120px;
+    height: 70px;
+    font-size: 22px;
+}
+
+.rojo {
+    background-color: red;
+    color: white;
+}
+
+.azul {
+    background-color: blue;
+    color: yellow;
+}
+
+.btn {
+    border: 2px solid pink;
+    background-color: violet;
+}
